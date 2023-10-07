@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar-nav{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.carding{
+    width:auto;
+    border:1px;
+    border-radius: 25px;
+    padding: 30px;
+    box-shadow: 0 5px 10px ;
+}
+.carousel-caption{
+    font-family: 'Times New Roman', Times, serif;
+}
+.d-flex{
+    font-family: 'Times New Roman', Times, serif;
+}
